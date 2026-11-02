@@ -1,6 +1,6 @@
 import config
 import expenses
-
+# Expense Tracker
 try:
     print("="*20)
     print("EXPENSE TRACKER")
