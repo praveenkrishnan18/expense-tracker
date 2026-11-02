@@ -1,2 +1,2 @@
-Expense Tracker
+##Expense Tracker##
 Track your expense with ease!
